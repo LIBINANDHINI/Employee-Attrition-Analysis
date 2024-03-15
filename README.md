@@ -15,7 +15,7 @@ Overview of project: Exploratory data analysis of an attrition survey conducted.
 Exploratory Data Analysis : Exploratory Data Analysis is an initial process of analysis, in which we can summarize characteristics of data such as pattern, trends, outliers, and hypothesis testing using descriptive statistics and visualization.
 
 # Data Visualization
-https://app.powerbi.com/groups/me/reports/9eec6cba-0f6a-40dc-859b-2d673d76b05c?pbi_source=PowerPoint
+https://app.powerbi.com/groups/me/reports/306cc404-ffcf-4974-8443-2be96bafc17b/ReportSection?experience=power-bi
 
 # Conclusion
 1. 83.9% of Employees are going to leave the company and 16.1% of employees will stay.
